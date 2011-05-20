@@ -7,13 +7,7 @@
  */
 
 // add usernames
-$participients = array(
-    'neo',
-    'Andreas',
-    'Some other user',
-    'Foobar',
-    'Heinz'
-);
+$participients = array();
 
 // max. winners
 $maxWinners = 3;
